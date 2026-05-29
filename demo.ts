@@ -1,2 +1,3 @@
 const demo = 1;
-const demo = 2;
+const demo1 = 2;
+const demo2 = 3;
